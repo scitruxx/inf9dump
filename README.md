@@ -1,22 +1,22 @@
 # inf9dump
-> realm of knowledge !!
+realm of knowledge !!
 
-  autistic guy tells you things 
+  > autistic guy tells you things 
   
-  i dont know how the fuck to use github
+  > i dont know how the fuck to use github
   
-  help
+  > help
   
-> current installations
+current installations
 
-  hit american televison program gotham
+  > hit american televison program gotham
   
-  fashion
+  > fashion
   
-  pretentious philosophy
+  > pretentious philosophy
   
-  collin
+  > collin
   
-> site will be updated every time i have any thoughts i feel are prevalent
+site will be updated every time i have any thoughts i feel are prevalent
 
-> enjoy!
+enjoy!
